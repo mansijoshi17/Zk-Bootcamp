@@ -14,7 +14,7 @@ Some modular arithmetic
 
 ## Answers
 
-1. 
+**1**. 
 
 (a). 
 
@@ -45,14 +45,36 @@ The inverse of 3 modulo 7 is 5.
 
 ```
 
-2. 
+**2**. 
 
-3. 
+**3**. 
 
-−13 mod 5 is 2.
+```
+−13 mod 5 is 2 
 
-4. 
+```
+
+**4**. 
+
+(i). 
+
+``` 
 
 if we take x = 2
 
-2<sup>3</sup>
+ = 2<sup>3</sup> - 2<sup>2</sup> + 4 * 2 - 12 
+
+ = 8 - 4 + 8 - 12 
+
+ = 0
+
+Since x = 2 makes polynomial equal to zero, so 2 is positive root. 
+
+```
+
+(ii).
+
+```
+The degree of polynomial is the highest exponent which is 3.
+
+```
