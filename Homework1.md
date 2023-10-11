@@ -58,7 +58,7 @@ The inverse of 3 modulo 7 is 5.
 
 (i). 
 
-``` 
+
 
 if we take x = 2
 
@@ -70,7 +70,7 @@ if we take x = 2
 
 Since x = 2 makes polynomial equal to zero, so 2 is positive root. 
 
-```
+
 
 (ii).
 
