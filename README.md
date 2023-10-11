@@ -1,5 +1,5 @@
 # Zk-Bootcamp
 
-Encoding Club ZK Bootcamp 23 Q4 Homework and solutions
+Encoding Club ZK Bootcamp 2023 Homework and solutions
 
 
