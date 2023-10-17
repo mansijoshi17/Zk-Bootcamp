@@ -1,4 +1,4 @@
-## Answers
+## Homework 2
 
 **1. Modular arithmetic - you just need to find examples, you don't need to prove anything.**
    **1. Is it true that all odd squares are ≡ 1 (mod 8) ?**

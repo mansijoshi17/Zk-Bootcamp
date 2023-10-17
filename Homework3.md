@@ -1,4 +1,4 @@
-## Answers
+## Homework 3
 
 **1. Use the example file to generate a proof to show that a prover knows the square root of 25.**
 
